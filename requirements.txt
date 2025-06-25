@@ -1,0 +1,6 @@
+streamlit
+requests
+python-dotenv
+openai==1.30.5
+agents
+git+https://github.com/nestordemeure/agents.git
